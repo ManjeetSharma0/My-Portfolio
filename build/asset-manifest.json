@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4917d2b.css",
+    "main.js": "/static/js/main.9e0a33ee.js",
+    "static/js/787.8308bc4c.chunk.js": "/static/js/787.8308bc4c.chunk.js",
+    "static/media/img-2.png": "/static/media/img-2.ad7662c87c897d0c8203.png",
+    "static/media/img-3.png": "/static/media/img-3.ff1c96f414a59b569fc7.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.ed6298903ae1554c7f3e.svg",
+    "static/media/themify.svg?-fvbane": "/static/media/themify.f0fc8c798eac5636249c.svg",
+    "static/media/flaticon.svg?": "/static/media/flaticon.c2ff0da7a604dbf8758b.svg",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.f0af1680f082547a7aae.ttf",
+    "static/media/img-1.png": "/static/media/img-1.a382854fdff44ff88f43.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f7f1738ca345185e0185.woff",
+    "static/media/themify.eot": "/static/media/themify.9bad94440d49256265a5.eot",
+    "static/media/themify.ttf?-fvbane": "/static/media/themify.eda8b94308c6f538f04a.ttf",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.09b9015b1ecaf95655b1.eot",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.0317d582b93c20f68e05.woff2",
+    "static/media/noise.png": "/static/media/noise.f622bf4e86563eaf41c3.png",
+    "static/media/themify.woff?-fvbane": "/static/media/themify.29b39089170885ae2967.woff",
+    "static/media/rotate-text.svg": "/static/media/rotate-text.aa1abf9c246467c7c00b5b8eb2e91b61.svg",
+    "static/media/flaticon.eot?": "/static/media/flaticon.fa4bc14846188defcd03.eot",
+    "static/media/flaticon.ttf?": "/static/media/flaticon.dd1a9b443979a4d55484.ttf",
+    "static/media/flaticon.woff?": "/static/media/flaticon.aab9dea83835bdf36687.woff",
+    "static/media/flaticon.woff2?": "/static/media/flaticon.5d29dd0257c18fefd615.woff2",
+    "static/media/3.svg": "/static/media/3.1ea97adcc42f097d98e92e4e06c55591.svg",
+    "static/media/2.svg": "/static/media/2.f78ecdc7a5ab0273d0942554fec66b01.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/1.svg": "/static/media/1.cc765fd0cffd06510735d3027db811f2.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/4.svg": "/static/media/4.462261e62b3f92a6614d919facc4d5f3.svg",
+    "index.html": "/index.html",
+    "main.e4917d2b.css.map": "/static/css/main.e4917d2b.css.map",
+    "main.9e0a33ee.js.map": "/static/js/main.9e0a33ee.js.map",
+    "787.8308bc4c.chunk.js.map": "/static/js/787.8308bc4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4917d2b.css",
+    "static/js/main.9e0a33ee.js"
+  ]
+}
